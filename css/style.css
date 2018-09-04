@@ -136,7 +136,7 @@ a.button3:active {
     }
     100% {
         transform: translate(-100%, 0)
-    }
+  }
 }
  
 .marquee {
